@@ -1,7 +1,7 @@
-🚀 **Fullstack-разработчик**  
+🚀 **Fullstack-developer**  
 
 
-### 🔧 **Технологии и инструменты**:
+### 🔧 **Technologies and tools**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -11,12 +11,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 
-### 📊 **Моя статистика**:
+### 📊 **My statistic**:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shipenok&show_icons=true&theme=radical)](https://github.com/shipenok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shipenok&layout=compact&theme=radical)](https://github.com/shipenok)
 
 
 
-### 📫 **Как связаться**:
+### 📫 **Links**:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/androvasilich)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:avshipenok@gmail.com)
