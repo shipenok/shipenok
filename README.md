@@ -12,8 +12,8 @@
 
 
 ### 📊 **Моя статистика**:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНАЙМ&show_icons=true&theme=radical)](https://github.com/shipenok)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНАЙМ&layout=compact&theme=radical)](https://github.com/shipenok)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shipenok&show_icons=true&theme=radical)](https://github.com/shipenok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shipenok&layout=compact&theme=radical)](https://github.com/shipenok)
 
 
 
